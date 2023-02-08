@@ -1,4 +1,4 @@
-![MasterHead](https://s41660.pcdn.co/wp-content/uploads/2020/04/90-article-card-1.gif)
+![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Hridoy</h1>
 <h3 align="center">A passionate frontend & backend developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
